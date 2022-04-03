@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P4BYANU)
 # DDOS-Panel-with-Login
 Advanced DDOS Panel with Login &amp; Auth (Without API)
 
